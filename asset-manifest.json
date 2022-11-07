@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/axios-reg-form/static/css/main.cc07dd06.css",
+    "main.js": "/axios-reg-form/static/js/main.7373d8e1.js",
+    "index.html": "/axios-reg-form/index.html",
+    "main.cc07dd06.css.map": "/axios-reg-form/static/css/main.cc07dd06.css.map",
+    "main.7373d8e1.js.map": "/axios-reg-form/static/js/main.7373d8e1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc07dd06.css",
+    "static/js/main.7373d8e1.js"
+  ]
+}
